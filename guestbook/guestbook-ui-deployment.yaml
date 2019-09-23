@@ -20,5 +20,5 @@ spec:
         env:
           - name: VERSION
             value: "pre-release"
-        portj:
+        ports:
         - containerPort: 80
